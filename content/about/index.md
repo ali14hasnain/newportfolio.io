@@ -1,22 +1,33 @@
 ---
-title: 'About Me'
+title: 'Profile'
 avatar: 'me.jpg'
-skills:
-  - Coding
-  - Reading
-  - Painting
-  - Crafting
-  - Problem Solving
-  - Team Management
-  - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Muhammad Ali Hasnain, a passionate and driven computer science student with a love for all things tech. Here, you’ll discover a showcase of my journey in the world of software development, where I’ve brought my ideas to life, honed my skills, and embarked on exciting projects. Whether you’re here to explore my coding adventures, check out my latest projects, or learn more about the person behind the screen, I’m thrilled to have you on board. Here's more about me:
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+```javascript
+class MuhammadAliHasnain {
+  // I can, because I will.
+  // Transforming visions into pixel-perfect reality.
+  constructor() {
+    this.name = 'Muhammad Ali Hasnain';
+    this.dayOfBirthTimestamp = 1087036800;
+    this.email = 'mahasnain@uwaterloo.ca';
+  }
+}
+```
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
-
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
-
-Here are a few of the other activities that I love to do!
+```javascript
+education() {
+  return [
+    {
+      '2022-2026': "University of Waterloo,
+       Bachelors Degree (BCS), Computer Science (IT)"
+    },
+    {
+      '2020-2022': "LGS JT, CIE A Levels,
+       Computer Science (IT)"
+    }
+  ];
+}
+```

@@ -1,10 +1,8 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
-buttonText: 'Get In Touch'
+name: 'Muhammad Ali Hasnain'
+subtitle: 'In the digital tapestry of computer science, I'm stitching my own path, driven by curiosity and the thrill of creation.'
+buttonText: 'Contact Me'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
-
-I enjoy learning new skills and implementing them in real life!
+Sophomore at University of Waterloo studying computer science with a focus on Artificial Intelligence. Currently geeking over Ruby and C.
